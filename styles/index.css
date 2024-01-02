@@ -1,0 +1,43 @@
+* {
+  background-color: #e4e9f7;
+  margin: 0;
+}
+h1 {
+  margin-top: 2%;
+  color: black;
+  font-size: 100px;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  margin-left: auto;
+  margin-right: auto;
+  text-shadow: 2px 2px 2px gray;
+}
+.link {
+  margin-top: 40px;
+  display: block;
+  font-family: "Segoe UI", sans-serif;
+  height: 50px;
+  font-size: 28px;
+  font-weight: 700;
+  background-color: #695cfe;
+  border-radius: 10px;
+  border-width: 0px;
+  color: white;
+}
+
+.link:hover {
+  background-color: #8895a2;
+  cursor: pointer;
+}
+
+.link1 {
+  text-decoration: none;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  display: grid;
+  justify-content: center;
+}
